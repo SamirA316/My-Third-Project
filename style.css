@@ -15,51 +15,16 @@
     justify-content: center;
     gap: 40px;
     margin-top: 150px;
+   
 }
-.box1{
-    background-color: #ffffff;
+.box1, .box2, .box3, .box4 {
+    background-color: #fff;
     color: #000;
     padding: 20px;
     text-align: center;
     width: 80px;
     height: 80px;
     border: 1px solid #000;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-.box2{
-    background-color: #ffffff;
-    color: #000;
-    padding: 20px;
-    border: 1px solid #000;
-    text-align: center;
-    width: 80px;
-    height: 80px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-.box3{
-    background-color: #ffffff;
-    color: #000;
-    padding: 20px;
-    border: 1px solid #000;
-    text-align: center;
-    width: 80px;
-    height: 80px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-.box4{
-    background-color: #ffffff;
-    color: #000;
-    padding: 20px;
-    border: 1px solid #000;
-    text-align: center;
-    width: 80px;
-    height: 80px;
     display: flex;
     align-items: center;
     justify-content: center;
