@@ -30,7 +30,7 @@ boxes.forEach(function (box) {
 
 const input = document.getElementById("input");
 const submit = document.getElementById("submit");
-const heading = document.querySelector(".navbar h1");
+const heading = document.querySelector(".navbar ");
 
 submit.addEventListener("click", function () {
 
